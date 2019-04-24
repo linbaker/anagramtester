@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/anagram/AnagramChecker/obj/Debug/netcoreapp2.2/AnagramChecker.csprojAssemblyReference.cache
+/Users/Guest/Desktop/anagram/AnagramChecker/obj/Debug/netcoreapp2.2/AnagramChecker.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/anagram/AnagramChecker/obj/Debug/netcoreapp2.2/AnagramChecker.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/anagram/AnagramChecker/obj/Debug/netcoreapp2.2/AnagramChecker.AssemblyInfo.cs
+/Users/Guest/Desktop/anagram/AnagramChecker/bin/Debug/netcoreapp2.2/AnagramChecker.deps.json
+/Users/Guest/Desktop/anagram/AnagramChecker/bin/Debug/netcoreapp2.2/AnagramChecker.dll
+/Users/Guest/Desktop/anagram/AnagramChecker/bin/Debug/netcoreapp2.2/AnagramChecker.pdb
+/Users/Guest/Desktop/anagram/AnagramChecker/obj/Debug/netcoreapp2.2/AnagramChecker.dll
+/Users/Guest/Desktop/anagram/AnagramChecker/obj/Debug/netcoreapp2.2/AnagramChecker.pdb

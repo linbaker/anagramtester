@@ -1,15 +1,29 @@
+using System;
+using System.Collections.Generic;
+
 namespace AnagramChecker.Models
 {
   public class Anagram
   {
 
-    // properties, methods, etc. will go here.
+    private string _word;
 
-  }
-  [TestMethod]
-    public void AnagramCompare_ComparesTwoStrings_true()
+    public Anagram (string word)
     {
-      Anagram newAnagram = new Anagram("test");
-      Assert.AreEqual("cat", newAnagram.AnagramCompare("cat"));
+      _word = word;
+
     }
+
+    // public string GetWord()
+    // {
+    //   return _word;
+    // }
+    //
+    // public string AnagramTransform(string word)
+    // {
+    //   char[] wordInput = word.ToCharArray();
+    //   Array.Sort(wordInput);
+    //   string sortedWord = new string(wordInput);
+    // }
+  }
 }
